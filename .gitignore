@@ -3,6 +3,9 @@
 /node_modules
 /prisma/migrations
 
+# General
+.env
+
 # Logs
 logs
 *.log
@@ -37,5 +40,3 @@ lerna-debug.log*
 # Prisma SQLite
 prisma/dev.db*
 
-.env
-./prisma/migrations
