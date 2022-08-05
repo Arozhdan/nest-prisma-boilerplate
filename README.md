@@ -1,7 +1,5 @@
 # Building a REST API with NestJS and prisma
 
-This repository contains the starter project for the **Building a REST API with NestJS and Prisma** workshop by [Marc Stammerjohann](https://twitter.com/mrcjln).
-
 ## Getting Started
 
 1. Clone this repository
